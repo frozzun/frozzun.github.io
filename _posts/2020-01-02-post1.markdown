@@ -1,13 +1,11 @@
 ---
 layout: post
-title: post-sample
-date: 2020-01-02 19:20:23 +0900
+title: 쿠팡 코멧 홈 3단 수납 선반, 화이트 후기
+date: 2024-07-02 14:04:23 +0900
 category: sample
 ---
 # post-sample
-> Hello!
+> 쿠팡 코멧 홈 3단 수납 선반, 화이트 후기 입니다.
+> https://www.coupang.com/vp/products/5735886487?vendorItemId=76923739622&sourceType=MyCoupang_my_orders_list_product_title&isAddedCart=
 
-This is code
-```ruby
-print 'hello world'
-```
+* 쿠팡 파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있습니다.
